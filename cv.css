@@ -1,0 +1,31 @@
+body{
+	background-color: white;
+}
+#page{
+	margin: auto;
+	width: 85%;
+}
+section h1,footer h1,h2 {
+	text-transform: uppercase;
+	font-weight: normal;
+	 	color: blue;
+
+}
+header{
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+	background-color: darkblue;
+	box-shadow: 5px 15px 5px gray;
+    }
+	 aside h2{
+	 	position: relative;
+	 	background-color: blue;
+	 	border-radius: 10px;
+	 	padding: 10px;
+	 	color: white;
+	 	font-size: 0.8em;
+	 	margin-bottom: 25px;
+	 	box-shadow: 5px 15px 5px;
+
+	 }
